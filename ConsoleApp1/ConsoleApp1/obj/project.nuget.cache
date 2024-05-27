@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PrLDI8d9pNfdunV/12npERVf1302m8zVr/kGk5PUtoa/LmzTwD7uRf0Nm8Pb3tPAHzG1HR7ltbMZyWvJ6PI36A==",
+  "success": true,
+  "projectFilePath": "/home/grodzio/praktyki/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/grodzio/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

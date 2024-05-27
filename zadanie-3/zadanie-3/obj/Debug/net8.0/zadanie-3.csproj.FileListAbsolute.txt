@@ -1,0 +1,14 @@
+/home/grodzio/praktyki/zadanie-3/zadanie-3/bin/Debug/net8.0/zadanie-3
+/home/grodzio/praktyki/zadanie-3/zadanie-3/bin/Debug/net8.0/zadanie-3.deps.json
+/home/grodzio/praktyki/zadanie-3/zadanie-3/bin/Debug/net8.0/zadanie-3.runtimeconfig.json
+/home/grodzio/praktyki/zadanie-3/zadanie-3/bin/Debug/net8.0/zadanie-3.dll
+/home/grodzio/praktyki/zadanie-3/zadanie-3/bin/Debug/net8.0/zadanie-3.pdb
+/home/grodzio/praktyki/zadanie-3/zadanie-3/obj/Debug/net8.0/zadanie-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/grodzio/praktyki/zadanie-3/zadanie-3/obj/Debug/net8.0/zadanie-3.AssemblyInfoInputs.cache
+/home/grodzio/praktyki/zadanie-3/zadanie-3/obj/Debug/net8.0/zadanie-3.AssemblyInfo.cs
+/home/grodzio/praktyki/zadanie-3/zadanie-3/obj/Debug/net8.0/zadanie-3.csproj.CoreCompileInputs.cache
+/home/grodzio/praktyki/zadanie-3/zadanie-3/obj/Debug/net8.0/zadanie-3.dll
+/home/grodzio/praktyki/zadanie-3/zadanie-3/obj/Debug/net8.0/refint/zadanie-3.dll
+/home/grodzio/praktyki/zadanie-3/zadanie-3/obj/Debug/net8.0/zadanie-3.pdb
+/home/grodzio/praktyki/zadanie-3/zadanie-3/obj/Debug/net8.0/zadanie-3.genruntimeconfig.cache
+/home/grodzio/praktyki/zadanie-3/zadanie-3/obj/Debug/net8.0/ref/zadanie-3.dll

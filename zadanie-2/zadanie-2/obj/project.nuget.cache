@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "95GFckWhMA+oIrn28xDiiBRLePiZTF8QFQfAigAWxcITiS2gudy+5ihdtLHDRjb9SdyYD7BP2jKtUnSohj99Mw==",
+  "success": true,
+  "projectFilePath": "/home/grodzio/praktyki/zadanie-2/zadanie-2/zadanie-2.csproj",
+  "expectedPackageFiles": [
+    "/home/grodzio/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
